@@ -17,6 +17,7 @@
 - O link enviado por e-mail para resetar senha, deve expirar em 2h;
 - O usuário precisa confirmar a nova senha ao resetar sua senha;
 
+
 # Atualização do perfil
 
 **RF**
@@ -47,6 +48,7 @@
 **RN**
 
 - A notificação deve ter um status de lidaou não lida para que o prestador possa controlar;
+
 
 # Agendamento de serviços
 
